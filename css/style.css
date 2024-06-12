@@ -18,7 +18,7 @@ ul, ol {
   list-style: none; }
 
 main, header, nav, article,
-section, aside, footer {
+section, aside, footer {  
   display: block; }
 
 figure {
